@@ -8,3 +8,4 @@ My machine learning practice from Deep-ML: solutions, labs and progress.
 | 1 | Matrix-Vector Dot Product | [solutions/001_matrix_vector_dot.py](solutions/001_matrix_vector_dot.py) |
 | 2 | Transpose of a Matrix | [solutions/002_transpose_matrix.py](solutions/002_transpose_matrix.py) |
 | 3 | Reshape Matrix | [solutions/003_reshape_matrix.py](solutions/003_reshape_matrix.py) |
+| 4 | Calculate Mean by Row or Column | [solutions/004_mean_by_row_or_column.py](solutions/004_mean_by_row_or_column.py) |
